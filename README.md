@@ -1,2 +1,2 @@
-# issues
-Repository of issues related to Kaltura Common Experiences in Education community.
+# issues-tracking
+Repository of issues and feature enhancements related to Kaltura Common Experiences in Education community.
